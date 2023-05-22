@@ -8,6 +8,16 @@ The dataset provided covers the period from 1st January 2013 to 24th April 2017 
 - Wind_speed: Speed of the wind in Delhi.
 - Meanpressure: Mean atmospheric pressure recorded in Delhi.
 The dataset is available in a structured format, allowing for easy ingestion and processing. It serves as the foundation for training and evaluating the forecasting model. You can find it in the [link](https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data?datasetId=312121&searchQuery=prophet).
+
+##  Dependencies
+The following dependencies are required to run the project:
+
+- Python
+- Pandas
+- itertools
+- Prophet
+- Plotly
+
 ## Results
 The trained Prophet model provides accurate predictions for the specified climate variables. The forecasts enable users to anticipate daily climate conditions in Delhi, India, based on historical patterns and trends.
 
