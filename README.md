@@ -14,14 +14,18 @@ The following dependencies are required to run the project:
 
 - Python
 - Pandas
-- itertools
+- Scikit-learn
+- Itertools
 - Prophet
 - Plotly
 
-## Results
+## Conclusion
 The trained Prophet model provides accurate predictions for the specified climate variables. The forecasts enable users to anticipate daily climate conditions in Delhi, India, based on historical patterns and trends.
 
 The performance of the model can be evaluated using various metrics, such as root mean squared error (RMSE), mean absolute error (MAE), or mean absolute percentage error (MAPE). These metrics help assess the accuracy and reliability of the model's predictions.
 
 ## License
 This project is licensed under the MIT License. Feel free to modify and use the codebase for your own purposes.
+
+## Contact
+For any questions, suggestions, or issues, feel free to contact the repository maintainer at chris13angelid@gmail.com
